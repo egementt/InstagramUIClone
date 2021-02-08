@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#0091EA</color>
+    <color name="colorPrimaryDark">#2962FF</color>
+    <color name="colorAccent">#294285</color>
+
+    <color name="mainBackGround">#FAFAFA</color>
+    <color name="textLayoutBG">#e7e7e7</color>
+    <color name="outlineColor">#E4E4E4</color>
+    <color name="signButtonColor">#3897f0</color>
+</resources>
